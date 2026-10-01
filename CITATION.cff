@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "clinker functional grouping"
+abstract: "A Python utility that re-colours a clinker comparative genome figure by broad functional category instead of by clinker homology group."
+authors:
+  - family-names: "Erdoğdu"
+    given-names: "Berna"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+date-released: 2026-10-01
+license: MIT
+repository-code: "https://github.com/BERDOGDU/clinker-functional-grouping"
+# doi: 10.5281/zenodo.XXXXXXX
+keywords:
+  - bacteriophage
+  - comparative genomics
+  - clinker
+  - genome visualization
