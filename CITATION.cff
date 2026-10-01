@@ -3,9 +3,9 @@ message: "If you use this software, please cite it as below."
 title: "clinker functional grouping"
 abstract: "A Python utility that re-colours a clinker comparative genome figure by broad functional category instead of by clinker homology group."
 authors:
-  - family-names: "Erdogdu"
+  - family-names: "Erdoğdu"
     given-names: "Berna"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0002-4199-6903"
 version: 1.0.0
 date-released: 2026-10-01
 license: MIT
